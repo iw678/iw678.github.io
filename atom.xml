@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iw678.github.io</id>
-    <title>资源</title>
-    <updated>2020-11-12T23:20:37.932Z</updated>
+    <title>iw678</title>
+    <updated>2020-11-12T23:21:21.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iw678.github.io"/>
     <link rel="self" href="https://iw678.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://iw678.github.io/images/avatar.png</logo>
     <icon>https://iw678.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 资源</rights>
+    <rights>All rights reserved 2020, iw678</rights>
 </feed>
