@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/iw678/token.git</id>
-    <title>Gridea</title>
-    <updated>2020-11-12T04:09:58.281Z</updated>
+    <id>https://iw678.github.io</id>
+    <title>资源</title>
+    <updated>2020-11-12T04:32:49.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/iw678/token.git"/>
-    <link rel="self" href="https://github.com/iw678/token.git/atom.xml"/>
+    <link rel="alternate" href="https://iw678.github.io"/>
+    <link rel="self" href="https://iw678.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/iw678/token.git/images/avatar.png</logo>
-    <icon>https://github.com/iw678/token.git/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/iw678/token.git/post/hello-gridea/</id>
-        <link href="https://github.com/iw678/token.git/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
-    </entry>
+    <logo>https://iw678.github.io/images/avatar.png</logo>
+    <icon>https://iw678.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 资源</rights>
 </feed>
